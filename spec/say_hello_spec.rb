@@ -14,5 +14,5 @@ describe "say_hello" do
 end
 
 def say_hello(name = "Ruby Programmer")
-  punts "Hello #{name}!"
+  puts "Hello #{name}!"
 end
